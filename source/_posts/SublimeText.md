@@ -119,11 +119,13 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 ### [OmniMarkupPreviwer](http://theo.im/OmniMarkupPreviewer/):实时在浏览器中预，而MarkdownPreview是需要手动生成的和F5的。览如果双屏的话，应该具有不错的体验。快捷键如下：    
 
-    Ctrl+Alt+O: Preview Markup in Browser.
+几个自带快捷键  
 
-    Ctrl+Alt+X: Export Markup as HTML. 
+    Ctrl+Alt+O: 在浏览器中预览.
 
-    Ctrl+Alt+C: Copy Markup as HTML.  
+    Ctrl+Alt+X: 导出HTML. 
+
+    Ctrl+Alt+C: HTML标记拷贝至剪贴板.  
 
 ### [WordCount](https://github.com/titoBouzout/WordCount):可以实时显示当前文件的字数。  
 
