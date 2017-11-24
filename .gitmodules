@@ -1,0 +1,6 @@
+[submodule "hexo-theme-next"]
+	path = hexo-theme-next
+	url = https://github.com/love2157dream/hexo-theme-next.git
+[submodule "hexo-theme-yilia"]
+	path = hexo-theme-yilia
+	url = https://github.com/love2157dream/hexo-theme-yilia.git
