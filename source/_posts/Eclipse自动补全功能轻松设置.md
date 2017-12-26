@@ -1,7 +1,7 @@
 ---
 title: Eclipse自动补全功能轻松设置
 date: 2017-11-24 12:53:12
-tags: 自动补全
+tags: Eclipse自动补全
 categories: Eclipse
 ---
 #### Eclipse代码自动补全功能默认只包括 点”.” ，即只有输入”.”后才出现自动补全的提示框。  

@@ -2,9 +2,9 @@
 title: Sublime3插件OmniMarkupPreviewer预览Markdown文件提示Error:404 Not Found
 date: 2017-10-13 09:38:21
 tags: 
-    - sublimeText3
-    - sublimeText3插件
-categories: sublimeText3
+    - SublimeText3
+    - SublimeText3插件
+categories: SublimeText3
 ---
 
 

@@ -2,9 +2,8 @@
 title: Eclipse安装Emmet
 date: 2017-11-24 10:52:36
 tags: 
-    - Eclipse
     - Emmet
-    - 插件安装
+    - Eclipse插件安装
 categories: Eclipse 
 ---
 ### 1.如果需要离线安装```emmet```，需要从官方网站上下载```emmet```的源码包，然后导出为我们需要的插件格式，首先登陆```ememt```的官网，```http://emmet.io```，然后选择下载的连接，跳转到下载的界面，如下所示： 
